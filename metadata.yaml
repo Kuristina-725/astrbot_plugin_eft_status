@@ -1,0 +1,4 @@
+name: astrbot_plugin_eft_status
+desc: 查询逃离塔科夫（Escape from Tarkov）各游戏服务器与平台服务的运行状态
+version: v1.0.0
+author: Kuristina
